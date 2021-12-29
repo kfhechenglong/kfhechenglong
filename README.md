@@ -16,7 +16,7 @@
   <summary>设计模式</summary>
   <div style="width: 98%; margin: 0 auto">
   <ul>
-    <li><a href="https://juejin.cn/post/7042608777136177188">单例模式</a></li>
+    <li><a target="_blank" href="https://juejin.cn/post/7042608777136177188">单例模式</a></li>
   </ul>
   </div>
 </details>
@@ -25,7 +25,7 @@
   <summary>vue</summary>
   <div style="width: 98%; margin: 0 auto">
   <ul>
-    <li><a href="https://juejin.cn/post/7042607094628876318">vue3.0+tsx+slot</a></li>
+    <li><a target="_blank" href="https://juejin.cn/post/7042607094628876318">vue3.0+tsx+slot</a></li>
   </ul>
   </div>
 </details>
