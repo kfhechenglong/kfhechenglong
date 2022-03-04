@@ -7,6 +7,7 @@
 
 - 💬 My [blog](https://kfhechenglong.github.io/blog/)
 - 💬 My [CSDN](https://blog.csdn.net/cheng521521)
+- 💬 My [语雀](https://www.yuque.com/jueduilingdu-ih3ty)
 - 📫 How to reach me: 绝对零度
 - ⚡ Follow Me: [![](https://img.shields.io/github/followers/kfhechenglong?label=follow%20me&style=social)](https://github.com/kfhechenglong/)
 
