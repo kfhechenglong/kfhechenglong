@@ -5,7 +5,7 @@
 - 🔭 I’m currently working in Beijing China
 - 🌱 I’m currently learning Js Ts Vue ...
 
-- 💬 My [blog](https://github.com/kfhechenglong/blog/tree/master/docs)
+- 💬 My [blog](https://github.com/kfhechenglong/blog)
 - 💬 My [CSDN](https://blog.csdn.net/cheng521521)
 - 💬 My [语雀](https://www.yuque.com/jueduilingdu-ih3ty)
 - 📫 How to reach me: 绝对零度
