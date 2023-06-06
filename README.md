@@ -32,11 +32,12 @@
   </ul>
   </div>
 </details>
+## 关注公众号
+![公众号二维码](https://github.com/kfhechenglong/blog/blob/master/docs/imgs/%E5%85%AC%E4%BC%97%E5%8F%B7%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg)
 
 ![](https://github-readme-stats.vercel.app/api?username=kfhechenglong&show_icons=true&theme=radical)
 
 ![](https://activity-graph.herokuapp.com/graph?username=kfhechenglong&theme=redical)
-
 <p align="center">
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/kfhechenglong/count.svg" />
