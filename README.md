@@ -35,7 +35,7 @@
 
 ## 关注公众号
 
-![公众号二维码](https://github.com/kfhechenglong/blog/blob/master/.vuepress/public/wx_code.jpg)
+![公众号二维码](https://kfhechenglong.github.io/blog/wx_code.jpg)
 
 ![](https://github-readme-stats.vercel.app/api?username=kfhechenglong&show_icons=true&theme=radical)
 
