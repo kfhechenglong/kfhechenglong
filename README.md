@@ -14,7 +14,7 @@
 
 ## 关注公众号
 
-![公众号二维码](https://holazero.cn/wx_code.jpg)
+[公众号二维码点击关注](https://holazero.cn/wx_code.jpg)
 
 ![](https://github-readme-stats.vercel.app/api?username=kfhechenglong&show_icons=true&theme=radical)
 
